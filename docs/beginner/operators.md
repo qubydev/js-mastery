@@ -8,7 +8,7 @@
 ### Must Know
 
 #### 1. Why `"5" + 5 -> 55`?
-This operation is called *concatination*. You do nt need to worry too much about it now, we will see that in more details later.
+This operation is called *concatination*. You do'nt need to worry too much about it now, we will see that in details soon.
 
 ### 2. Ternary Operator (`?`)
 
