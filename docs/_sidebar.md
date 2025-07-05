@@ -10,3 +10,4 @@
   - [let](beginner/let.md)
   - [const](beginner/const.md)
   - [Operators](beginner/operators.md)
+  - [Data Types](beginner/data_types.md)
